@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Bootstrap.
 - 📫 How to reach me --> kon.xronopoulos@gmail.com.
 
-- I'm a student and currently taking my first steps in programming and app development.
+- I'm a student and currently taking my first steps in programming and web development.
 
 <!---
 Chr0nK0n/Chr0nK0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
